@@ -1,0 +1,6 @@
+{
+  "name": "Firas",
+  "description": "Firas — пространство для ясной работы: задачи, заметки, фокус-таймер и ежедневный ритм.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
